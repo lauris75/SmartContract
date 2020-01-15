@@ -1,2 +1,2 @@
 # SmartContract
-![alt text](https://ibb.co/xMMYTPw)
+![alt text](https://github.com/lauris75/SmartContract/blob/master/Verslomodelis.jpg)
